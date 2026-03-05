@@ -1,0 +1,10 @@
+Amazon S3 is an object storage service designed for high durability.
+Calibration in machine learning measures whether predicted probabilities match real accuracy.
+Abstention means refusing to answer when uncertainty is high.
+A key-value store maps keys to values for fast lookup.
+Hallucination in LLMs refers to confidently generating incorrect information.
+Prompt injection is an attempt to override system instructions.
+Distributed systems trade off consistency, availability, and partition tolerance.
+Financial risk models estimate probability of default.
+Entropy measures uncertainty in predictions.
+Self-consistency sampling compares multiple generated outputs.
